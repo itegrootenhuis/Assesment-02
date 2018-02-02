@@ -1,0 +1,7 @@
+C:\Users\test\Documents\GrandCircus\Assesment02\Assesment02\bin\Debug\Assesment02.exe.config
+C:\Users\test\Documents\GrandCircus\Assesment02\Assesment02\bin\Debug\Assesment02.exe
+C:\Users\test\Documents\GrandCircus\Assesment02\Assesment02\bin\Debug\Assesment02.pdb
+C:\Users\test\Documents\GrandCircus\Assesment02\Assesment02\obj\Debug\Assesment02.csprojResolveAssemblyReference.cache
+C:\Users\test\Documents\GrandCircus\Assesment02\Assesment02\obj\Debug\Assesment02.csproj.CoreCompileInputs.cache
+C:\Users\test\Documents\GrandCircus\Assesment02\Assesment02\obj\Debug\Assesment02.exe
+C:\Users\test\Documents\GrandCircus\Assesment02\Assesment02\obj\Debug\Assesment02.pdb
